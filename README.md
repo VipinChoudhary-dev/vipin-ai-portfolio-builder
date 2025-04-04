@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/d72f2757-ce30-4ccc-b549-8ce950f86298
+**URL**: https://vipin-ai-portfolio-builder.lovable.app/
 
 ## How can I edit this code?
 
